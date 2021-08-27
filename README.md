@@ -33,8 +33,8 @@ after restart customize your setting
 4. Now run as Adminastrator 
 
 ##Author:
-fb : https://facebook.com/ntahsan.nayem
-github : https://github.com/Noob-Hacker71
+#fb : https://facebook.com/ntahsan.nayem
+#github : https://github.com/Noob-Hacker71
 
 ##Thank You for Using this tool
 ## Keep Support me 
